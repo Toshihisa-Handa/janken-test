@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  /* 事前に入れておくとpaddingのサイズがboxの指定に含まれるようになる */
+}
+
+html{
+  font-size: 62.5%;
+  /* これで1rem=10pxに */
+}
